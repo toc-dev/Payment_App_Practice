@@ -1,0 +1,9 @@
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentDB\bin\Debug\netcoreapp3.1\PaymentDB.deps.json
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentDB\bin\Debug\netcoreapp3.1\PaymentDB.dll
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentDB\bin\Debug\netcoreapp3.1\PaymentDB.pdb
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentDB\obj\Debug\netcoreapp3.1\PaymentDB.csproj.AssemblyReference.cache
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentDB\obj\Debug\netcoreapp3.1\PaymentDB.AssemblyInfoInputs.cache
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentDB\obj\Debug\netcoreapp3.1\PaymentDB.AssemblyInfo.cs
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentDB\obj\Debug\netcoreapp3.1\PaymentDB.csproj.CoreCompileInputs.cache
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentDB\obj\Debug\netcoreapp3.1\PaymentDB.dll
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentDB\obj\Debug\netcoreapp3.1\PaymentDB.pdb

@@ -1,0 +1,7 @@
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentApp\bin\Debug\PaymentApp.exe.config
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentApp\bin\Debug\PaymentApp.exe
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentApp\bin\Debug\PaymentApp.pdb
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentApp\obj\Debug\PaymentApp.csproj.AssemblyReference.cache
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentApp\obj\Debug\PaymentApp.csproj.CoreCompileInputs.cache
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentApp\obj\Debug\PaymentApp.exe
+C:\Personal Projects\C#\Practice\PaymentApplication\PaymentApp\obj\Debug\PaymentApp.pdb
